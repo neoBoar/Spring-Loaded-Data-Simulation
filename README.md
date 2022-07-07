@@ -1,7 +1,4 @@
 # Spring-Loaded-Data-Simulation
-Spring Loaded Data Simulation using OpenGL
-
-# Spring-Loaded-Data-Simulation
 
 Spring Loaded Data Simulation using OpenGL for Computer Graphics University Assignment
 
